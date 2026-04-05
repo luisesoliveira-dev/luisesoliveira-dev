@@ -13,8 +13,8 @@ Desenvolvedor em formação (ADS) com foco em desenvolvimento **Full Stack**. Po
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 **Back-end & Banco de Dados:**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%20(Estudando)-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20(Estudando)-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ---
 
 ### 🎯 Objetivo:
