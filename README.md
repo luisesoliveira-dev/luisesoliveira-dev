@@ -14,7 +14,7 @@ Desenvolvedor em formação (ADS) com foco em desenvolvimento **Full Stack**. Po
 
 **Back-end & Banco de Dados:**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) *(Estudando)*
+![MySQL](https://img.shields.io/badge/MySQL-Estudando-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -22,4 +22,4 @@ Desenvolvedor em formação (ADS) com foco em desenvolvimento **Full Stack**. Po
 Busco minha primeira oportunidade como **Estagiário de Desenvolvimento** para aplicar meus conhecimentos em projetos reais e contribuir com o sucesso da equipe.
 
 📫 **Como me encontrar:**
-[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=luis.esoliveira.dev@gmail.com)
+[E-mail](mailto:luis.esoliveira.dev@gmail.com)
