@@ -16,7 +16,7 @@ Desenvolvedor em formação (ADS) com foco em desenvolvimento **Full Stack**. Po
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL%20(Estudando)-white.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 
---
+---
 
 ### 🎯 Objetivo:
 Busco minha primeira oportunidade como **Estagiário de Desenvolvimento** para aplicar meus conhecimentos em projetos reais e contribuir com o sucesso da equipe.
